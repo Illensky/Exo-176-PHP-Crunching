@@ -14,10 +14,13 @@ Le résultat est alors un tableau contenant tous les mots.
 ### Exercices
 
 * Combien de mots contient ce dictionnaire ?
+* => 336532
 * Combien de mots font exactement 15 caractères ?
+* => 20259
 * Combien de mots contiennent la lettre « w » ?
+* => 537
 * Combien de mots finissent par la lettre « q » ?
-
+* => 0
 
 ## Liste de films
 
@@ -41,11 +44,29 @@ $top = $brut["feed"]["entry"]; # liste de films
 ```
 
 * Quel est le classement du film « Gravity » ?
+* => 58
 * Quel est le réalisateur du film « The LEGO Movie » ?
+* => Phil Lord & Christopher Miller
 * Combien de films sont sortis avant 2000 ?
+* => 12
 * Quel est le film le plus récent ? Le plus vieux ?
+* => 2016, 1947
 * Quelle est la catégorie de films la plus représentée ?
+* => Action & Adventure
 * Quel est le réalisateur le plus présent dans le top100 ?
+* => George Lucas
 * Combien cela coûterait-il d'acheter le top10 sur iTunes ? de le louer ?
+* => 152,9$ USD
 * Quel est le mois ayant vu le plus de sorties au cinéma ?
+* => Juillet et Mai 
 * Quels sont les 10 meilleurs films à voir en ayant un budget limité ?
+* => The LEGO Movie
+* => American Hustle
+* => Divergent
+* => Gravity
+* => Paranormal Activity: The Ghost Dimension (Unrated Version)
+* => Kung Fu Panda 2
+* => Love & Mercy
+* => The Polar Express
+* => Ex Machina
+* => The Wolf of Wall Street
